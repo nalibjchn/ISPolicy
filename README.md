@@ -1,1 +1,4 @@
-# Policy with Information State and Dialogue Acts Update
+Pubish in SemDial 2023
+# Working process figure
+# Dialogue examples with IS update
+# Dialogue policies details
